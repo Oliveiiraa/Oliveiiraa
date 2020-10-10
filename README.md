@@ -28,7 +28,7 @@ Hi, my name is Gabriel Oliveira and I'm currently 21 years old,<br> work on <a h
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Oliveiiraa&show_icons=true" alt="Oliveiiraa"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Oliveiiraa&show_icons=true&theme=graywhite" alt="Oliveiiraa"/>
 </p>
 
 <p align="center">
