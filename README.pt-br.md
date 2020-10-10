@@ -37,3 +37,7 @@ Olá, meu nome é Gabriel Oliveira e atualmente tenho 21 anos, <br> trabalho na 
 <a href="https://instagram.com/_oliveiiraa_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Oliveiiraa" height="20" width="20" /></a>
 <a href="http://wa.me/5514998921088" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Oliveiiraa" height="20" width="20" /></a>
 </p>
+
+<p align="center">
+- 📫 Como contactar-me.: <a href="mailto:gabrielh-oliveira@hotmail.com">gabrielh-oliveira@hotmail.com</a>
+</p>
