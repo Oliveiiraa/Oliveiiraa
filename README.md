@@ -9,7 +9,7 @@
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-Hi, my name is Gabriel Oliveira and I'm currently 21 years old,<br> work on <a href="https://www.linkedin.com/company/ikatec/">Ikatec Engenharia de Software</a> as an integrations developer<br> . I'm studying <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a>, <a href="https://reactnative.dev/">React Native</a> and<br< <a href="https://www.typescriptlang.org/"> Typescript</a> 
+Hi, my name is Gabriel Oliveira and I'm currently 21 years old,<br> work on <a href="https://www.linkedin.com/company/ikatec/">Ikatec Engenharia de Software</a> as an integrations developer.<br> I'm studying <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a>, <a href="https://reactnative.dev/">React Native</a> and<br< <a href="https://www.typescriptlang.org/"> Typescript</a> 
 </p>
 <!-- QUOTE -->
 <br>
