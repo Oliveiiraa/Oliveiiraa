@@ -40,3 +40,4 @@ Hi, my name is Gabriel Oliveira and I'm currently 21 years old,<br> work on <a h
 <p align="center">
 - 📫 How to reach me: gabrielh-oliveira@hotmail.com
 </p>
+gabrielh-oliveira@hotmail.com
