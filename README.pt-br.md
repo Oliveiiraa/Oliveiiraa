@@ -39,5 +39,5 @@ Olá, meu nome é Gabriel Oliveira e atualmente tenho 21 anos, <br> trabalho na 
 </p>
 
 <p align="center">
-- 📫 Como contactar-me.: <a href="mailto:gabrielh-oliveira@hotmail.com">gabrielh-oliveira@hotmail.com</a>
+- 📫 Como contactar-me: <a href="mailto:gabrielh-oliveira@hotmail.com">gabrielh-oliveira@hotmail.com</a>
 </p>
