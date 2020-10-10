@@ -38,6 +38,5 @@ Hi, my name is Gabriel Oliveira and I'm currently 21 years old,<br> work on <a h
 </p>
 
 <p align="center">
-- 📫 How to reach me: gabrielh-oliveira@hotmail.com
+- 📫 How to reach me: _<gabrielh-oliveira@hotmail.com>_
 </p>
-gabrielh-oliveira@hotmail.com
