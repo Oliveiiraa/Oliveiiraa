@@ -14,7 +14,7 @@ Hi, my name is Gabriel Oliveira and I'm currently 21 years old,<br> work on <a h
 <!-- QUOTE -->
 <br>
 <p align="center">
-"May your work be perfect so that, even after your death, it remains."
+>"May your work be perfect so that, even after your death, it remains."
 <br>
 ― Leonardo da Vinci
 </p>
