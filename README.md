@@ -32,7 +32,7 @@ Hi, my name is Gabriel Oliveira and I'm currently 21 years old,<br> work on <a h
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/gabriel-h-oliveiiraa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Oliveiiraa" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/gabriel-h-oliveira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Oliveiiraa" height="20" width="20" /></a>
 <a href="https://instagram.com/_oliveiiraa_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Oliveiiraa" height="20" width="20" /></a>
 <a href="http://wa.me/5514998921088" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Oliveiiraa" height="20" width="20" /></a>
 </p>
