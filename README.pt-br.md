@@ -10,7 +10,7 @@
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-Olá, meu nome é Gabriel Oliveira e atualmente tenho 21 anos, <br> trabalho na <a href="https://www.linkedin.com/company/ikatec/"> Ikatec Engenharia de Software </a> como desenvolvedor de integrações.<br> Estou estudando <a href="https://www.php.net/">PHP</a>, <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a>, <a href="https://reactnative.dev/">React Native</a> e <a href="https://www.typescriptlang.org/">Typescript</a>.
+Olá, meu nome é Gabriel Oliveira e atualmente tenho 22 anos, <br> trabalho na <a href="https://www.linkedin.com/company/ikatec/"> Ikatec Engenharia de Software </a> como desenvolvedor de integrações.<br> Estou estudando <a href="https://www.php.net/">PHP</a>, <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a>, <a href="https://reactnative.dev/">React Native</a> e <a href="https://www.typescriptlang.org/">Typescript</a>.
 </p>
 <!-- QUOTE -->
 <br>
