@@ -38,9 +38,9 @@ Hi, my name is Gabriel Oliveira and I'm currently 22 years old,<br> work on <a h
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/gabriel-h-oliveira" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Oliveiiraa" height="20" width="20" /></a>
-<a href="https://instagram.com/_oliveiiraa_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Oliveiiraa" height="20" width="20" /></a>
-<a href="http://wa.me/5514998921088" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Oliveiiraa" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/gabriel-h-oliveira" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Oliveiiraa" target="_blank" /></a>
+<a href="https://instagram.com/_oliveiiraa_" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Oliveiiraa" /></a>
+<a href="http://wa.me/5514998921088" target="blank"><img align="center" src="https://img.shields.io/badge/-whatsapp-4af23?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Oliveiiraa" target="_blank" /></a>
 </p>
 
 <p align="center">
