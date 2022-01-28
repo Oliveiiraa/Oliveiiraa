@@ -36,7 +36,7 @@ Olá, meu nome é Gabriel Oliveira e atualmente tenho 22 anos, <br> trabalho na 
 
 <p align="center">
     <a href="#"><img alt="Oliveiiraa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Oliveiiraa&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=161b22&title_color=79c0ff&icon_color=79c0ff" height="180"/></a>
-    <a href="#"><img alt="Oliveiiraa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveiiraa&langs_count=10&exclude-repo=TCC-Delphi-Gerenciamento-Academia&layout=compact&theme=react&hide_border=true&bg_color=161b22&title_color=79c0ff&icon_color=79c0ff" height="180"/></a>
+    <a href="#"><img alt="Oliveiiraa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveiiraa&langs_count=10&exclude_repo=TCC-Delphi-Gerenciamento-Academia&layout=compact&theme=react&hide_border=true&bg_color=161b22&title_color=79c0ff&icon_color=79c0ff" height="180"/></a>
 </p>
 
 <p align="center">
