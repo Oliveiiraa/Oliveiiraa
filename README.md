@@ -9,7 +9,7 @@
 
 <!-- ABOUT OF ME -->
 <p align="center" style="text-align: center;">
-Hi, my name is Gabriel Oliveira and I'm currently 22 years old,<br> work on <a href="https://www.linkedin.com/school/driven-education/">Driven Education</a> as an Full Stack Development Tutor.<br> I'm studying <a href="https://www.php.net/">PHP</a>, <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a>, <a href="https://reactnative.dev/">React Native</a> and <a href="https://www.typescriptlang.org/">Typescript</a>. 
+Hi, my name is Gabriel Oliveira and I'm currently 22 years old,<br> work on <a href="https://www.linkedin.com/company/dankedelivery/">Danke</a> as an CTO & Software Enginner.<br> I'm studying <a href="https://www.php.net/">PHP</a>, <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://pt-br.reactjs.org/">ReactJS</a>, <a href="https://reactnative.dev/">React Native</a> and <a href="https://www.typescriptlang.org/">Typescript</a>. 
 </p>
 <!-- QUOTE -->
 <br>
